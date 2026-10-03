@@ -21,24 +21,31 @@ I also have experience in **Selenium WebDriver, test automation and WCAG accessi
 ## 🛠️ Technologies & Tools
 
 ### Languages
+
 Python • JavaScript • SQL • HTML5 • CSS3
 
 ### Frameworks & Libraries
-Django • Django REST Framework • React.js • Bootstrap
+
+Django • Django REST Framework • React.js • Bootstrap • Next.js • TypeScript
 
 ### Development
+
 REST APIs • JWT Authentication • Responsive Web Design • Git • GitHub
 
 ### Database
+
 MySQL • SQLite • Relational Database Design
 
 ### Testing
-Selenium WebDriver • Test Automation • WCAG Accessibility Testing
+
+Selenium WebDriver • Test Automation • WCAG Accessibility Testing • Vitest
 
 ### AI-Assisted Development
+
 Claude • Cursor • OpenAI Codex • Prompt Engineering
 
 ### Currently Strengthening
+
 Data Structures & Algorithms • AWS • Docker
 
 ---
@@ -50,6 +57,7 @@ Data Structures & Algorithms • AWS • Docker
 A full-stack fashion e-commerce application built with **Django REST Framework and React.js**.
 
 **Key areas:**
+
 - Customer and admin workflows
 - JWT authentication
 - Product and category management
@@ -62,10 +70,10 @@ A full-stack fashion e-commerce application built with **Django REST Framework a
 - Automated backend testing
 
 🔗 **Repository:**  
-https://github.com/gowsi12303/NOSTRA
+[https://github.com/gowsi12303/NOSTRA](https://github.com/gowsi12303/NOSTRA)
 
 🌐 **Portfolio:**  
-https://gowsikan-portfolio-ivory.vercel.app/
+[https://gowsikan-portfolio-ivory.vercel.app/](https://gowsikan-portfolio-ivory.vercel.app/)
 
 ---
 
@@ -76,6 +84,7 @@ https://gowsikan-portfolio-ivory.vercel.app/
 A relational database project focused on social media data management and SQL concepts.
 
 **Key areas:**
+
 - Third Normal Form (3NF)
 - Relational database design
 - Joins and aggregations
@@ -88,7 +97,7 @@ A relational database project focused on social media data management and SQL co
 - Indexing
 
 🔗 **GitHub:**  
-https://github.com/gowsi12303
+[https://github.com/gowsi12303](https://github.com/gowsi12303)
 
 ---
 
@@ -99,16 +108,39 @@ A frontend insurance policy renewal portal built using modern React technologies
 **Tech:** React • Vite • JavaScript • React Router • Recharts • CSS
 
 🌐 **Live Demo:**  
-https://policy-renewal-portal.vercel.app/
+[https://policy-renewal-portal.vercel.app/](https://policy-renewal-portal.vercel.app/)
 
 🔗 **GitHub:**  
-https://github.com/gowsi12303/policy-renewal-portal
+[https://github.com/gowsi12303/policy-renewal-portal](https://github.com/gowsi12303/policy-renewal-portal)
+
+---
+
+### Advanced CRM Dashboard
+
+A modern CRM dashboard for managing customers, sales pipelines and customer workflows with a responsive interface and production-style frontend architecture.
+
+**Key areas:**
+
+- Customer CRUD with search, sorting, pagination and advanced filters
+- Saved filters and reusable filter templates
+- Drag-and-drop sales pipeline with keyboard support
+- Bulk actions and CSV export
+- Dashboard analytics and customer workflow management
+- Responsive UI with dark/light/system themes
+- Accessibility-focused interface
+- Automated unit and component testing
+
+**Tech:** Next.js • React • TypeScript • Tailwind CSS • shadcn/ui • TanStack Query • React Hook Form • Zod • dnd-kit • Vitest
+
+🔗 **GitHub:**  
+[https://github.com/gowsi12303/Advanced-CRM-Dashboard](https://github.com/gowsi12303/Advanced-CRM-Dashboard)
 
 ---
 
 ## 💼 Experience
 
 ### Software Developer Intern
+
 **Soruban Technology Private Limited**  
 April 2026 – June 2026
 
@@ -117,6 +149,7 @@ April 2026 – June 2026
 - Used Git and GitHub for version control and collaboration.
 
 ### Test Automation Engineer Intern
+
 **Indium Software**  
 June 2025 – November 2025
 
@@ -161,16 +194,16 @@ Bishop Heber College
 ## 🔗 Connect With Me
 
 **Portfolio:**  
-https://gowsikan-portfolio-ivory.vercel.app/
+[https://gowsikan-portfolio-ivory.vercel.app/](https://gowsikan-portfolio-ivory.vercel.app/)
 
 **LinkedIn:**  
-https://linkedin.com/in/gowsikan-lv-08431725
+[https://linkedin.com/in/gowsikan-lv-08431725](https://linkedin.com/in/gowsikan-lv-08431725)
 
 **GitHub:**  
-https://github.com/gowsi12303
+[https://github.com/gowsi12303](https://github.com/gowsi12303)
 
 **Resume:**  
-https://gowsikan-portfolio-ivory.vercel.app/assets/Gowsikan_LV_Resume.pdf
+[https://gowsikan-portfolio-ivory.vercel.app/assets/Gowsikan_LV_Resume.pdf](https://gowsikan-portfolio-ivory.vercel.app/assets/Gowsikan_LV_Resume.pdf)
 
 ---
 
