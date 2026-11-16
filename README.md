@@ -1,157 +1,111 @@
 # Hi, I'm Gowsikan LV 👋
 
-### Software Developer | Python | Django | React.js | JavaScript | AI-Assisted Development
+### Entry-Level Software Engineer | Python | Django | React.js
 
-B.Sc. Computer Science Graduate | MCA Pursuing | Building NOSTRA
+B.Sc. Computer Science Graduate | MCA Pursuing
 
-> **Build • Solve • Create**
+> **Build • Solve • Create 🚀**
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Software Developer focused on building modern web applications and backend systems using **Python, Django, Django REST Framework, React.js, JavaScript and SQL**.
+I'm an aspiring Software Engineer interested in building modern web applications and software solutions.
 
-I'm currently building **NOSTRA**, a full-stack fashion e-commerce platform with customer and admin workflows, authentication, product management, cart, wishlist, checkout, order management and automated backend testing.
+I have knowledge of **HTML, CSS, JavaScript, jQuery, Bootstrap, React.js, Python, Django and SQL**.
 
-I also have experience in **Selenium WebDriver, test automation and WCAG accessibility testing**, along with AI-assisted development using **Claude, Cursor and OpenAI Codex**.
+I have experience as a Software Developer Intern, where I worked on frontend development, responsive web applications and AI-assisted development tools.
+
+I also have experience in **Test Automation and Accessibility Testing**, including Selenium WebDriver and WCAG guidelines.
+
+I'm interested in frontend development, backend development, AI integration and continuous learning.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Languages
+### Frontend Development
+HTML • CSS • JavaScript • jQuery • Bootstrap • React.js
 
-Python • JavaScript • SQL • HTML5 • CSS3
-
-### Frameworks & Libraries
-
-Django • Django REST Framework • React.js • Bootstrap • Next.js • TypeScript
-
-### Development
-
-REST APIs • JWT Authentication • Responsive Web Design • Git • GitHub
+### Backend Development
+Python • Django • FastAPI
 
 ### Database
+SQL • Relational Database Design
 
-MySQL • SQLite • Relational Database Design
+### Version Control
+Git • GitHub
+
+### Development Tools
+VS Code • Postman
 
 ### Testing
+Selenium WebDriver • Test Automation • WCAG Accessibility Testing
 
-Selenium WebDriver • Test Automation • WCAG Accessibility Testing • Vitest
+### Cloud & DevOps
+AWS • DevOps • Deployment
 
-### AI-Assisted Development
-
-Claude • Cursor • OpenAI Codex • Prompt Engineering
-
-### Currently Strengthening
-
-Data Structures & Algorithms • AWS • Docker
+### Generative AI
+OpenAI • Google Gemini • Claude • Cursor • Generative AI Integration
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
 
-### NOSTRA — Full-Stack Fashion E-Commerce Platform
+### Multi-Agent Banking AI — Simulated Banking Architecture
 
-A full-stack fashion e-commerce application built with **Django REST Framework and React.js**.
+Built a multi-agent banking application featuring a Supervisor/Orchestrator Agent and three specialized agents:
 
-**Key areas:**
+- Customer/Banking Agent
+- Risk/Fraud Agent
+- Credit/Loan Agent
 
-- Customer and admin workflows
-- JWT authentication
-- Product and category management
-- Search, filtering and pagination
-- Cart and wishlist
-- Address management
-- Checkout and order management
-- Payment-attempt workflows
-- Stock-aware checkout
-- Automated backend testing
+**Key Features:**
+- Integrated Google Gemini for natural-language intent detection and intelligent request routing.
+- Simulated account balance and transaction history tools.
+- Suspicious transaction detection.
+- Credit profile and loan eligibility checks.
+- EMI calculation.
+- Responsive React.js interface with real-time results and agent execution traces.
+- FastAPI backend APIs.
+- Automated backend testing with 62 passing tests.
 
-🔗 **Repository:**  
-[https://github.com/gowsi12303/NOSTRA](https://github.com/gowsi12303/NOSTRA)
+**Tech Stack:** React.js • FastAPI • Python • Google Gemini • AI Agents • REST APIs
 
-🌐 **Portfolio:**  
-[https://gowsikan-portfolio-ivory.vercel.app/](https://gowsikan-portfolio-ivory.vercel.app/)
+### SocialMediaDB — Social Media Database Design
 
----
+Designed a normalized relational database using SQL.
 
-## 📊 Other Projects
+**Key Features:**
+- Third Normal Form (3NF) database design.
+- Five relational tables: Users, Posts, Comments, Likes and Followers.
+- Primary keys, foreign keys and self-referencing relationships.
+- INNER, LEFT, RIGHT, CROSS and self joins.
+- GROUP BY and HAVING aggregations.
+- Eight views and three stored procedures.
+- AFTER INSERT trigger for audit logging.
+- COMMIT, ROLLBACK and SAVEPOINT transactions.
+- Window functions, CTEs and indexes.
 
-### SocialMediaDB
-
-A relational database project focused on social media data management and SQL concepts.
-
-**Key areas:**
-
-- Third Normal Form (3NF)
-- Relational database design
-- Joins and aggregations
-- Views
-- Stored procedures
-- Triggers
-- Transactions
-- Window functions
-- Common Table Expressions (CTEs)
-- Indexing
-
-🔗 **GitHub:**  
-[https://github.com/gowsi12303](https://github.com/gowsi12303)
+**Tech Stack:** SQL • Relational Database Design
 
 ---
 
-### Policy Renewal Intelligence
-
-A frontend insurance policy renewal portal built using modern React technologies.
-
-**Tech:** React • Vite • JavaScript • React Router • Recharts • CSS
-
-🌐 **Live Demo:**  
-[https://policy-renewal-portal.vercel.app/](https://policy-renewal-portal.vercel.app/)
-
-🔗 **GitHub:**  
-[https://github.com/gowsi12303/policy-renewal-portal](https://github.com/gowsi12303/policy-renewal-portal)
-
----
-
-### Advanced CRM Dashboard
-
-A modern CRM dashboard for managing customers, sales pipelines and customer workflows with a responsive interface and production-style frontend architecture.
-
-**Key areas:**
-
-- Customer CRUD with search, sorting, pagination and advanced filters
-- Saved filters and reusable filter templates
-- Drag-and-drop sales pipeline with keyboard support
-- Bulk actions and CSV export
-- Dashboard analytics and customer workflow management
-- Responsive UI with dark/light/system themes
-- Accessibility-focused interface
-- Automated unit and component testing
-
-**Tech:** Next.js • React • TypeScript • Tailwind CSS • shadcn/ui • TanStack Query • React Hook Form • Zod • dnd-kit • Vitest
-
-🔗 **GitHub:**  
-[https://github.com/gowsi12303/Advanced-CRM-Dashboard](https://github.com/gowsi12303/Advanced-CRM-Dashboard)
-
----
-
-## 💼 Experience
+## 💼 Professional Experience
 
 ### Software Developer Intern
+**Soruban Technology Private Limited**
 
-**Soruban Technology Private Limited**  
-April 2026 – June 2026
+April 2026 – June 2026 | Coimbatore
 
-- Developed responsive web interfaces using HTML, CSS and JavaScript.
-- Worked with AI-assisted development tools.
-- Used Git and GitHub for version control and collaboration.
+- Developed responsive web applications using frontend development technologies.
+- Used AI-assisted development tools including Claude and ChatGPT to support coding and development workflows.
+- Used Git and GitHub for version control and project collaboration.
 
 ### Test Automation Engineer Intern
+**Indium Software**
 
-**Indium Software**  
-June 2025 – November 2025
+June 2025 – November 2025 | Chennai
 
 - Created and worked with test cases for web applications.
 - Used Selenium WebDriver for QA automation testing.
@@ -161,49 +115,38 @@ June 2025 – November 2025
 
 ## 🎓 Education
 
-**Master of Computer Applications (MCA)**  
-Alagappa University — ODL  
-2025 – Present
+**Master of Computer Applications (MCA) — ODL**  
+Alagappa University | 2025 – Present
 
-**B.Sc. Computer Science**  
-Bishop Heber College  
-2022 – 2025
+**Bachelor of Science in Computer Science (B.Sc. CS)**  
+Bishop Heber College | 2022 – 2025
 
 ---
 
 ## 📜 Certifications
 
 - Employability Skills Certification — Bishop Heber College
-- Quality Engineering Internship — Indium Software
 - One Million Prompters Program — Dubai Future Foundation
 - Accessibility Testing (WCAG) — Indium Software
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Areas of Interest
 
-- Full-Stack Python Development
-- Django & REST API Development
-- React.js
-- Data Structures & Algorithms
-- AWS & Docker
+- Frontend Development
+- Full-Stack Development
+- Python & Django Development
 - AI-Assisted Software Development
+- Generative AI Integration
+- Test Automation
 
 ---
 
 ## 🔗 Connect With Me
 
-**Portfolio:**  
-[https://gowsikan-portfolio-ivory.vercel.app/](https://gowsikan-portfolio-ivory.vercel.app/)
-
-**LinkedIn:**  
-[https://linkedin.com/in/gowsikan-lv-08431725](https://linkedin.com/in/gowsikan-lv-08431725)
-
-**GitHub:**  
-[https://github.com/gowsi12303](https://github.com/gowsi12303)
-
-**Resume:**  
-[https://gowsikan-portfolio-ivory.vercel.app/assets/Gowsikan_LV_Resume.pdf](https://gowsikan-portfolio-ivory.vercel.app/assets/Gowsikan_LV_Resume.pdf)
+- **Portfolio:** https://gowsikan-portfolio-ivory.vercel.app/
+- **LinkedIn:** https://linkedin.com/in/gowsikan-lv-08431725a
+- **GitHub:** https://github.com/gowsi12303
 
 ---
 
