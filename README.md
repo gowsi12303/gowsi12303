@@ -1,6 +1,6 @@
 # Hi, I'm Gowsikan LV 👋
 
-### Entry-Level Software Engineer | Python | Django | React.js
+### Entry-Level Software Engineer 
 
 B.Sc. Computer Science Graduate | MCA Pursuing
 
@@ -12,7 +12,7 @@ B.Sc. Computer Science Graduate | MCA Pursuing
 
 I'm an aspiring Software Engineer interested in building modern web applications and software solutions.
 
-I have knowledge of **HTML, CSS, JavaScript, jQuery, Bootstrap, React.js, Python, Django and SQL**.
+I have knowledge of **HTML, CSS, JavaScript, Bootstrap, React.js, Python, Django and SQL**.
 
 I have experience as a Software Developer Intern, where I worked on frontend development, responsive web applications and AI-assisted development tools.
 
@@ -25,10 +25,10 @@ I'm interested in frontend development, backend development, AI integration and 
 ## 🛠️ Technologies & Tools
 
 ### Frontend Development
-HTML • CSS • JavaScript • jQuery • Bootstrap • React.js
+HTML • CSS • JavaScript • Bootstrap • React.js
 
 ### Backend Development
-Python • Django • FastAPI
+Python • Django 
 
 ### Database
 SQL • Relational Database Design
@@ -134,11 +134,9 @@ Bishop Heber College | 2022 – 2025
 ## 🎯 Areas of Interest
 
 - Frontend Development
+- Backend Development
 - Full-Stack Development
-- Python & Django Development
 - AI-Assisted Software Development
-- Generative AI Integration
-- Test Automation
 
 ---
 
